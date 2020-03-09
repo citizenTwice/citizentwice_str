@@ -34,8 +34,8 @@ Thanks for visting.
  IG:    @citizenTwice
 ```
 
-###License
+### License
 MIT
 
-###Contributing
+### Contributing
 Please feel free to contribute bugfixes/enhancements via github.
