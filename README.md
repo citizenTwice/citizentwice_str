@@ -2,6 +2,7 @@
 Various convenience functions I've (re)written a number of times, for personal use. Mainly std::string and const char* for now, no std::string_view at the moment.
 
 ##### Basic
+'''
  to_upper
  to_lower
  left
@@ -11,21 +12,27 @@ Various convenience functions I've (re)written a number of times, for personal u
  trim
  ltrim
  rtrim
+'''
 
 ##### Easy RegEx matching
+'''
  re_does_match
  re_get_match
+'''
  
 ##### String to/from array
+'''
  split
  join
+'''
  
 ### Feedback/Contact
 Thanks for visting.
+'''
 Email: LG@citizentwice.nl
-T:  @citizenTwice
-IG: @citizenTwice
-
+T:     @citizenTwice
+IG:    @citizenTwice
+'''
 ###License
 MIT
 
