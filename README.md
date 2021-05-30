@@ -28,7 +28,7 @@ Various convenience functions I've (re)written a number of times, for personal u
  
 ### Feedback/Contact
 Thanks for visting.
-* Email: [LG@citizentwice.nl](mailto:GIT@THLG.nl)
+* Email: [GIT@THLG.nl](mailto:GIT@THLG.nl)
 * T:     [@citizenTwice](https://twitter.com/citizentwice)
 * IG:    [@citizenTwice](https://instagram.com/citizentwice)
 
